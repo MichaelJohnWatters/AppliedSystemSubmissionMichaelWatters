@@ -1,0 +1,13 @@
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\bin\Debug\Applied2.exe.config
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\bin\Debug\Applied2.exe
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\bin\Debug\Applied2.pdb
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.csprojAssemblyReference.cache
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.Form1.resources
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.InputControl.resources
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.Properties.Resources.resources
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.csproj.GenerateResource.cache
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.csproj.CoreCompileInputs.cache
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.exe
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.pdb
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.Summary.resources
+C:\Users\mjwat\OneDrive\Projects\Applied2\Applied2\obj\Debug\Applied2.Welcome.resources
